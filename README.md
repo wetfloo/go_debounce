@@ -1,10 +1,10 @@
 # Go Debounce
 
-[![Tests on Linux, MacOS and Windows](https://github.com/bep/debounce/workflows/Test/badge.svg)](https://github.com/bep/debounce/actions?query=workflow:Test)
-[![GoDoc](https://godoc.org/github.com/bep/debounce?status.svg)](https://godoc.org/github.com/bep/debounce)
-[![Go Report Card](https://goreportcard.com/badge/github.com/bep/debounce)](https://goreportcard.com/report/github.com/bep/debounce)
-[![codecov](https://codecov.io/gh/bep/debounce/branch/master/graph/badge.svg)](https://codecov.io/gh/bep/debounce)
-[![Release](https://img.shields.io/github/release/bep/debounce.svg?style=flat-square)](https://github.com/bep/debounce/releases/latest)
+[![Tests on Linux, MacOS and Windows](https://github.com/wetfloo/go_debounce/workflows/Test/badge.svg)](https://github.com/wetfloo/go_debounce/actions?query=workflow:Test)
+[![GoDoc](https://godoc.org/github.com/wetfloo/go_debounce?status.svg)](https://godoc.org/github.com/wetfloo/go_debounce)
+[![Go Report Card](https://goreportcard.com/badge/github.com/wetfloo/go_debounce)](https://goreportcard.com/report/github.com/wetfloo/go_debounce)
+[![codecov](https://codecov.io/gh/wetfloo/go_debounce/branch/master/graph/badge.svg)](https://codecov.io/gh/wetfloo/go_debounce)
+[![Release](https://img.shields.io/github/release/wetfloo/go_debounce.svg?style=flat-square)](https://github.com/wetfloo/go_debounce/releases/latest)
 
 ## Example
 

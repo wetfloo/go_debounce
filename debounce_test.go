@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bep/debounce"
+	"github.com/wetfloo/go_debounce"
 )
 
 func TestDebounce(t *testing.T) {
